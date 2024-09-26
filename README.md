@@ -18,21 +18,10 @@ This project aims to recreate a portfolio page based on a provided Figma design.
 🚀Search Functionality: Filters cards based on their title text when the user types in the search bar.
 
 
-Watch On Youtube <a href="https://youtube.com/shorts/QHVI1PlH7lk?feature=share">📲Youtube Video🖥️</a>
+Watch On Youtube <a href="https://youtu.be/u0tKTUF9iww">📲Youtube Video🖥️</a>
 
-
-
-  <a href="https://github.com/Sharathk1999/Movie-App/releases/download/1.0/app-release.apk"> ![The Movie App Download](https://github.com/Sharathk1999/Movie-App/blob/main/Images/2.jpg) </a>
-
-
-  
-
-
-
-## Screenshots
-
-![The Movie App](https://github.com/Sharathk1999/Movie-App/blob/main/Images/1.jpg)
-![Movie App](https://github.com/Sharathk1999/Movie-App/blob/main/Images/2.jpg)
+# Download
+  <a href="https://github.com/Sharathk1999/Portfolio-App/releases/download/1.0/app-release.apk"> ![The Portfolio App Download](https://github.com/Sharathk1999/Portfolio-App/blob/main/Images/Portfolio%20App.jpg) </a>
 
 
 
